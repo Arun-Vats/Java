@@ -5,7 +5,7 @@ public class PrimitiveDataTypes {
 
   public static void main(String[] args) {
     
-  byte b = 127; //can store values from -128 to 127
+  byte b = 127; //1 byte can store values from -128 to 127
   short s = 1234; // 2 byte
   int i = 264732342; // 4 byte
   long l = 7327562376786L; // 8 byte
